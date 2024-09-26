@@ -6,7 +6,7 @@ This is a simple API that allows you to create a customer profile in My Customer
 
 ## Access API
 
-To access the API, the following URL must be used:https://my-json-server.typicode.com/SV51-MetaSoft-App-Web/enponit-customer-managerment
+To access the API , the following URL must be used:https://my-json-server.typicode.com/SV51-MetaSoft-App-Web/enponit-customer-managerment
 
 ## Endpoints
 
