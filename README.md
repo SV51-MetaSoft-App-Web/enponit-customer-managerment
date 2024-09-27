@@ -15,4 +15,10 @@ The API has the following endpoints:
 ````
 GET /clients
 
+POST /clients
+
+PUT /clients/:id
+
+DELETE /clients/:id
+
 ````
